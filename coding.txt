@@ -1,3 +1,5 @@
 astri init 456
 
 init 456
+tambah lagi
+tambah lagi

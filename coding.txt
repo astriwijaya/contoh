@@ -1,1 +1,1 @@
-init
+astri init
